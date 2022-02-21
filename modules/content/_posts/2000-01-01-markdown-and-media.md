@@ -1,5 +1,5 @@
 ---
-title: Markdown & Media
+title: Blaski i Cienie
 ---
 
 ## Formatting Text with Markdown
