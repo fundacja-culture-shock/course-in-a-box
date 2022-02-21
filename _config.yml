@@ -3,12 +3,12 @@ markdown: kramdown
 permalink: /:categories/:title/
 
 # Change this tracking code with your own tracking code
-ga_tracking_code: UA-139717412-2
+ga_tracking_code: UA-xxxxxx-x
 # Please leave this code here for us to see how Course in a Box get used
-p2pu_ga_tracking_code: UA-55722824-1
+p2pu_ga_tracking_code: UA-xxxxxx-x
 
 # Some files we need to exclude, so Github can build the site
-exclude: [Gemfile, Gemfile.lock, README.md]
+exclude: [Gemfile, Gemfile.lock, README.md, vendor]
 
 defaults:
   -
